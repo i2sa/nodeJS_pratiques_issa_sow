@@ -1,0 +1,38 @@
+module.exports = [
+  {
+    id: 1,
+    prenom: "issa",
+    nom: "sow",
+    age: 28,
+    lieux_naissance: "richard-toll",
+    bureau_vote: 14,
+    numero_carte_electeur: 123485885,
+  },
+  {
+    id: 2,
+    prenom: "fawade",
+    nom: "sagne",
+    age: 18,
+    lieux_naissance: "richard-toll",
+    bureau_vote: 18,
+    numero_carte_electeur: 12348080,
+  },
+  {
+    id: 3,
+    prenom: "khady",
+    nom: "kande",
+    age: 16,
+    lieux_naissance: "richard-toll",
+    bureau_vote: 16,
+    numero_carte_electeur: 123482395,
+  },
+  {
+    id: 4,
+    prenom: "aminata",
+    nom: "ka",
+    age: 23,
+    lieux_naissance: "bela",
+    bureau_vote: 23,
+    numero_carte_electeur: 123480935,
+  },
+];
